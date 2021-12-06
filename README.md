@@ -7,5 +7,5 @@ pdfを分割して再編成します
 - poppler-utils
 
 # Installation
-- Upload <span style="color: red; ">pdfdivider</span> into Google Drive
+- Upload <span style="color: red; ">pdfdivider</span> into Colaboratory
 - Run <span style="color: red; ">main.ipynb</span>
