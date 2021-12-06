@@ -1,5 +1,6 @@
 # pdfdivider
-pdfを分割して再編成します
+pdfを分割して再編成
+テキストは失われます
 
 # Requirements
 - pdf2image
